@@ -1,6 +1,6 @@
 {
   "name": "@bonny-kato/remix-client-cache",
-  "version": "0.1.0-beta.0",
+  "version": "0.1.1",
   "description": "Utility library to cache your client data in Remix.run",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -48,7 +48,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Code-Forge-Net/remix-client-cache.git"
+    "url": "git+https://github.com/Bonny-kato/remix-client-cache.git"
   },
   "keywords": [
     "React",
@@ -58,18 +58,18 @@
     "cache",
     "client-cache"
   ],
-  "author": "Alem Tuzlak",
+  "author": "Bonny Kato",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Code-Forge-Net/remix-client-cache/issues"
+    "url": "https://github.com/Bonny-kato/remix-client-cache/issues"
   },
-  "homepage": "https://github.com/Code-Forge-Net/remix-client-cache#readme",
+  "homepage": "https://github.com/Bonny-kato/remix-client-cache#readme",
   "peerDependencies": {
     "@remix-run/react": "^2.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "readme": "https://github.com/Code-Forge-Net/remix-client-cache#readme",
+  "readme": "https://github.com/Bonny-kato/remix-client-cache#readme",
   "devDependencies": {
     "@remix-run/react": "^2.6.0",
     "@remix-run/server-runtime": "^2.6.0",
